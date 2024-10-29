@@ -83,7 +83,7 @@ Tests passed = 1, Tests failed = 1
 ## Type Support
 The library supports comparison of these types:
 
-`int`
-`float` (with epsilon comparison)
-`double` (with epsilon comparison)
+`int` \
+`float` (with epsilon comparison) \
+`double` (with epsilon comparison) \
 `char*` and `const char*` (string comparison)
