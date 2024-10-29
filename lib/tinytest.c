@@ -4,7 +4,7 @@
 #include <string.h>
 
 #include "error_codes.h"
-#include "tiny_test.h"
+#include "tinytest.h"
 
 TestCase *testcases = NULL;
 TestCase *currentTest = NULL;
