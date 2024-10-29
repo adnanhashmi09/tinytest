@@ -13,8 +13,8 @@
 
 Download the required files from the releases:
 - `tinytest.h` - Header file
-- `libtinytest.so` - Shared library (Linux)
-- `libtinytest.dylib` - Dynamic library (macOS)
+- `libtinytest-(arch).so` - Shared library (Linux). Rename to libtinytest.so after downloading.
+- `libtinytest-(arch).dylib` - Dynamic library (macOS). Rename to libtinytest.dylib after downloading.
 
 ## API Reference
 
